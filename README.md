@@ -1,6 +1,7 @@
 # Keorapetse
 # Hi there! 👋 I'm Keorapetse Tau
 
+
 ## 🚀 About Me
 I'm a dedicated student at Belgium Campus in Johannesburg, Gauteng, South Africa. Passionate about learning, technology, and innovation, I'm eager to explore new opportunities and grow my skill set.
 
