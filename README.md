@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack
 ## ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-
+![Static Badge](https://img.shields.io/badge/C%23-Purple)
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/keorapetse-tau-15914b36a](https://www.linkedin.com/in/keorapetse-tau-15914b36a)
