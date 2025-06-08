@@ -18,4 +18,5 @@
 - 💼 LinkedIn: [linkedin.com/in/keorapetse-tau-15914b36a](https://www.linkedin.com/in/keorapetse-tau-15914b36a)
 
 ## ✨ GitHub Stats
-![Keorapetse's GitHub stats](https://github-readme-stats.vercel.app/api?username=keorapetse-tau&show_icons=true&theme=radical)
+
+![Keorapetse's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
