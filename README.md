@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 🎓 I'm a **1st Year** dedicated student at Belgium Campus in Johannesburg, Gauteng, South Africa.
+
 🧠 I’ve recently started exploring **C#** for game development and working on my **2D character design**.
+
 🌱 I’m expanding my skills in **HTML/CSS, and C#**
 
 ## 💻 Tech Stack
