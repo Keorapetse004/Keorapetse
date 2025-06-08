@@ -12,6 +12,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
+  
 ![Static Badge](https://img.shields.io/badge/HTML5-orange)
 ![Static Badge](https://img.shields.io/badge/Css-blue)
 ![Static Badge](https://img.shields.io/badge/C%23-purple)
