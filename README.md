@@ -15,8 +15,6 @@
 ![Static Badge](https://img.shields.io/badge/C%23-purple)
 
 
-- 💼 LinkedIn: [linkedin.com/in/keorapetse-tau-15914b36a](https://www.linkedin.com/in/keorapetse-tau-15914b36a)
-
 ## ✨ GitHub Stats
 
 ![Keorapetse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keorapetse004)](https://github.com/anuraghazra/github-readme-stats)
