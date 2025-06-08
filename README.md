@@ -7,7 +7,7 @@
 💼 To learn more use this link to my LinkedIn: [linkedin.com/in/keorapetse-tau-15914b36a](https://www.linkedin.com/in/keorapetse-tau-15914b36a)
 
 <p align="center">
-<img src="https://github.com/Keorapetse004/Keorapetse/blob/9a06c6eecf7e1dfa54439eb66535e5cfe836690c/slim-jim-_dribbble_-_800x600_.gif" alt="Guy coding" width="300" height="250">
+<img src="https://github.com/Keorapetse004/Keorapetse/blob/9a06c6eecf7e1dfa54439eb66535e5cfe836690c/slim-jim-_dribbble_-_800x600_.gif" alt="Guy coding" width="500" height="450">
 </p>
 
 ## 💻 Tech Stack
