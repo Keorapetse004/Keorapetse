@@ -6,7 +6,8 @@
 🌱 I’m expanding my skills in **HTML/CSS, and C#** <br>
 💼 To learn more use this link to my LinkedIn: [linkedin.com/in/keorapetse-tau-15914b36a](https://www.linkedin.com/in/keorapetse-tau-15914b36a)
 
-<img scr= "https://github.com/Keorapetse004/Keorapetse/blob/b2e546455f4ef63950107a81359295549a56f9a3/slim-jim-_dribbble_-_800x600_.gif" >
+![slim-jim-_dribbble_-_800x600_](https://github.com/user-attachments/assets/7371ef92-5882-4c34-ad88-cc944f37a7aa)
+
 
 ## 💻 Tech Stack
 ![Static Badge](https://img.shields.io/badge/HTML5-orange)
