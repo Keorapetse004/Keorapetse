@@ -6,7 +6,7 @@
 🌱 I’m expanding my skills in **HTML/CSS, and C#** <br>
 💼 To learn more use this link to my LinkedIn: [linkedin.com/in/keorapetse-tau-15914b36a](https://www.linkedin.com/in/keorapetse-tau-15914b36a)
 
-<img scr= "https://github.com/Keorapetse004/Keorapetse/blob/9a06c6eecf7e1dfa54439eb66535e5cfe836690c/slim-jim-_dribbble_-_800x600_.gif" alt="Guy coding" width="250" height="250">
+<img scr="https://github.com/Keorapetse004/Keorapetse/blob/9a06c6eecf7e1dfa54439eb66535e5cfe836690c/slim-jim-_dribbble_-_800x600_.gif" alt="Guy coding" width="250" height="250">
 
 
 ## 💻 Tech Stack
