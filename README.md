@@ -7,6 +7,8 @@
 
 🌱 I’m expanding my skills in **HTML/CSS, and C#**
 
+![Image Alt](image_url)
+
 ## 💻 Tech Stack
 ## ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 
