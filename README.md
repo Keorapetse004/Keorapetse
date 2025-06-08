@@ -16,9 +16,3 @@
 
 ## ✨ GitHub Stats
 ![Keorapetse's GitHub stats](https://github-readme-stats.vercel.app/api?username=keorapetse-tau&show_icons=true&theme=radical)
-
-## 👁️‍🗨️ Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=lena-gray&color=blue)
-
-Excited to collaborate on projects, exchange knowledge, and contribute to meaningful work! 🚀
