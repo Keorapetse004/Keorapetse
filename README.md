@@ -10,7 +10,8 @@
 <img src="https://github.com/Keorapetse004/Keorapetse/blob/9a06c6eecf7e1dfa54439eb66535e5cfe836690c/slim-jim-_dribbble_-_800x600_.gif" alt="Guy coding" width="300" height="250">
 </p>
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
+</hr>
 <p align="center">
 <img src= "https://img.shields.io/badge/HTML5-orange">
 <img src= "https://img.shields.io/badge/Css-blue">
