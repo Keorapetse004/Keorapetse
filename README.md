@@ -10,8 +10,8 @@
 ![Image Alt](https://github.com/Keorapetse004/Keorapetse/blob/e380c7c892b9736348d176282187bc92e1141cfa/Markus%20Magnusson.jpeg)
 
 ## 💻 Tech Stack
-## ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![Static Badge](https://img.shields.io/badge/C%23-Purple)
+![Static Badge](https://img.shields.io/badge/HTML5-orange)
+![Static Badge](https://img.shields.io/badge/C%23-purple)
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/keorapetse-tau-15914b36a](https://www.linkedin.com/in/keorapetse-tau-15914b36a)
