@@ -7,12 +7,11 @@ I'm a dedicated student at Belgium Campus in Johannesburg, Gauteng, South Africa
 
 ## 💻 Tech & Game Development
 I’ve recently started exploring **C#** for game development and working on **2D character design**. I’m currently focused on mastering **character movement** and refining animation techniques. Looking forward to expanding my knowledge and creating engaging experiences in the gaming world!
-
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ## 🎓 Education
 - **Belgium Campus** (2025 - 2028)
 
 ## 🔗 Connect with Me
-- 📧 Email: [603555@student.belgiumcampus.ac.za](mailto:603555@student.belgiumcampus.ac.za)
 - 💼 LinkedIn: [linkedin.com/in/keorapetse-tau-15914b36a](https://www.linkedin.com/in/keorapetse-tau-15914b36a)
 
 ## ✨ GitHub Stats
