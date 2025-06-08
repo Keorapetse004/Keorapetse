@@ -7,7 +7,7 @@
 
 🌱 I’m expanding my skills in **HTML/CSS, and C#**
 
-![Image Alt](https://github.com/Keorapetse004/Keorapetse/blob/e380c7c892b9736348d176282187bc92e1141cfa/Markus%20Magnusson.jpeg)
+![Image Alt]
 
 ## 💻 Tech Stack
 ![Static Badge](https://img.shields.io/badge/HTML5-orange)
