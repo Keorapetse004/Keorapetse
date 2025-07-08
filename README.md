@@ -21,7 +21,3 @@
 ## ✨ GitHub Stats<br> 
   
 ![Keorapetse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keorapetse004&show_icons=true&theme=dracula)
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Keorapetse004/count.svg"/>
-</p>
